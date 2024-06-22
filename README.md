@@ -14,11 +14,31 @@
 
 <h2></h2> JS Masīvu Izmantošana;
 
-<table></table>
-<td> var vards; </td> <td>  Mainīgā "vards" deklarēšana </td>
+<table border="2">;
+  <tr> 
+   <td> var vards="Roberts"; </td> <td>  Mainīgā "vards" deklarēšana </td> 
+   <tr> 
+  <td> var masivs=[2,3,5,8]; </td> <td> Izveido masīvu ar dotajām vērtībām </td> 
+   <tr> 
+   <td> if((vecums >=14) && (vecums<19)) { status="Atbilst vecums."; </td> <td> Zarošanās piemērs ar saliktu nosacījumu </td>
+</table>
+     <head></head>
+<font face ="Georgia" size ="7" color ="#000080"> JS ar Nosacījuma Operatora (if) Izmantošanu  </font>
+<br> Nosacījuma operators if ir viens no svarīgākajiem vadības plūsmas elementiem JavaScript valodā. Tas ļauj izpildīt koda blokus atkarībā no nosacījuma vērtības.
+<h2> Salīdzināšanas Operatori </h2>
+<ul> 
+<p> 
+•	== un != - vienlīdzības un nevienlīdzības pārbaude </p>
+<p>   
+•	> un < - lielāka/mazāka pārbaude </p> 
+<p> 
+•	>= un <= - lielāka/vienāda vai mazāka/vienāda pārbaude </p>  
+<p> 
+•	=== un !== - stingra vienlīdzības un nevienlīdzības pārbaude (salīdzina gan vērtību, gan datu tipu) </p>  
+ </ul>
 
 
 
-<sub></sub> sĻoti gribas H2O tādā karstumā
+
 Elektroniska klade
 klades aizpildīšana
